@@ -1,4 +1,4 @@
-<img src="./splash-art.png" width="100%" >
+<img src="./images/splash-art.png" width="100%" >
 
 <!--
 **EcksDy/EcksDy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
