@@ -17,6 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <a href="https://stackoverflow.com/users/3204453/ecksdy">
     <img alt="stackoverflow" src="./images/stackoverflow-dark.svg" height="24" align="right">
   </a>
+</picture>
 <p>&nbsp;&nbsp;</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/world-light.svg">
