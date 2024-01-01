@@ -32,7 +32,7 @@
 
 # I'm Yury - aka the Software Magician 🧙‍♂️
 
-Welcome to my little corner of GitHub! I'm a full-stack developer with a knack for backend infrastructure. Think of me as the wizard behind the curtain, making sure everything runs like a well-oiled machine. I'm a big fan of automation, and I'll turn mountains upside down to make my life easier.
+Welcome to my little corner of GitHub! I'm a full-stack developer with a knack for backend infrastructure. Think of me as the wizard behind the curtain, making sure everything runs like a well-oiled machine. I'm a big fan of automation, and I'll turn mountains upside down to make my life easier. I love breaking stuff apart, and with time I've got better at putting it back together.
 
 ## 💻 Professional Background
 
